@@ -10,7 +10,7 @@ I am [Yizheng Huang](http://huangyz.name/), a software engineer and MLSys resear
 
 ### :dart: Machine Learning Systems
 
-- [Machine Learning ModelCI](https://github.com/cap-ntu/ML-Model-CI): a complete MLOps platform for managing, converting, profiling, and deploying MLaaS.
+- [Machine Learning ModelCI](https://github.com/cap-ntu/ML-Model-CI): A complete MLOps platform for managing, converting, profiling, and deploying MLaaS.
 - [Active-learning-as-a-Service](https://github.com/MLSysOps/Active-Learning-as-a-Service): A scalable & efficient active learning/data selection system for everyone.
 
 ### :books: Tutorials
