@@ -10,8 +10,9 @@ I am [Yizheng Huang](http://huangyz.name/), a software engineer and MLSys resear
 
 ### :dart: Machine Learning Systems
 
-- [Machine Learning ModelCI](https://github.com/cap-ntu/ML-Model-CI): A MLOps platform for managing, converting, profiling, and deploying MLaaS. (ACM MM'20)
-- [Active-learning-as-a-Service](https://github.com/MLSysOps/Active-Learning-as-a-Service): A scalable & efficient active learning/data selection system. [(NeurIPS'22)](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64402.png?t=1668072815.3376932)
+- [Machine Learning ModelCI](https://github.com/cap-ntu/ML-Model-CI): A MLOps platform for managing, converting, profiling, and deploying MLaaS (ACM MM'20).
+- [Active-learning-as-a-Service](https://github.com/MLSysOps/Active-Learning-as-a-Service): A scalable & efficient active learning/data selection system (NeurIPS'22).
+- [DataCI](https://arxiv.org/abs/2306.15538): A Platform for Data-Centric AI on Streaming Data (ICML'23).
 
 ### :books: Tutorials
 
