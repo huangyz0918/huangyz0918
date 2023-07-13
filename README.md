@@ -1,8 +1,6 @@
 
 ### Hi there :wave:
 
-I am [Yizheng Huang](http://huangyz.name/), a software engineer and MLSys researcher. :see_no_evil:
-
 ### :jack_o_lantern: Software Engineering
 
 - [AndroidWM](https://github.com/huangyz0918/AndroidWM): An android watermark library that supports invisible digital watermarks. ![](https://img.shields.io/github/stars/huangyz0918/AndroidWM?style=social)
@@ -17,4 +15,4 @@ I am [Yizheng Huang](http://huangyz.name/), a software engineer and MLSys resear
 ### :books: Tutorials
 
 - [*Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning): A curated list of research in machine learning system. ![](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social)
-- [Hackintosh Installer University](https://github.com/huangyz0918/Hackintosh-Installer-University): Open-source driver adapters & installation tutorials for Hackintosh. ![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University?style=social)
+- [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University): Open-source driver adapters & installation tutorials for Hackintosh. ![](https://img.shields.io/github/stars/huangyz0918/Hackintosh-Installer-University?style=social)
