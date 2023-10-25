@@ -1,7 +1,3 @@
-Hi there 👋 I am Yizheng Huang : )
-
-I'm a Master's student at UCLA, specializing in ML system design and implementation.
-
 ### :jack_o_lantern: Software Engineering
 
 - [AndroidWM](https://github.com/huangyz0918/AndroidWM): An android watermark library that supports invisible digital watermarks. ![](https://img.shields.io/github/stars/huangyz0918/AndroidWM?style=social)
