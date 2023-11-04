@@ -1,4 +1,4 @@
-Hi there 👋 I am Yizheng Huang : )
+### Hi there 👋 
 
 I'm an MSCS student at UCLA, interested in ML system design and implementation. 
 
