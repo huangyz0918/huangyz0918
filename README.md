@@ -13,7 +13,7 @@ I'm an MSCS student at UCLA, interested in ML system design and implementation.
   <summary><b> :dart: Machine Learning Systems</b></summary>
 
   - [Machine Learning ModelCI](https://github.com/cap-ntu/ML-Model-CI): A MLOps platform for managing, converting, profiling, and deploying MLaaS (ACM MM'20).
-  - [Active-learning-as-a-Service](https://github.com/MLSysOps/Active-Learning-as-a-Service): A scalable & efficient active learning/data selection system (NeurIPS'22).
+  - [Active-learning-as-a-Service](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64402.png?t=1668072815.3376932): A scalable & efficient active learning/data selection system (NeurIPS'22).
   - [DataCI](https://arxiv.org/abs/2306.15538): A Platform for Data-Centric AI on Streaming Data (ICML'23).
 </details>
 
