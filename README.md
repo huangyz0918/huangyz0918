@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-I'm an MSCS student at UCLA, interested in ML system design and implementation. 
-
 <details open>
   <summary><b> :hammer: Software Engineering</b></summary>
   
