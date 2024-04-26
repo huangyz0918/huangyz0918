@@ -4,7 +4,7 @@
   <summary><b> :hammer: Software Engineering</b></summary>
   
   - [AndroidWM](https://github.com/huangyz0918/AndroidWM): An android watermark library that supports invisible digital watermarks. ![](https://img.shields.io/github/stars/huangyz0918/AndroidWM?style=social)
-  - [Moving](https://github.com/huangyz0918/moving): A clean and minimalist blog theme for Jekyll (front-end static site generator). ![](https://img.shields.io/github/stars/huangyz0918/moving?style=social)
+  - [Moving](https://github.com/huangyz0918/moving): A clean and minimalist blog theme for Jekyll. ![](https://img.shields.io/github/stars/huangyz0918/moving?style=social)
 </details>
 
 <details open>
