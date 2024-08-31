@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
 I'm an MSCS student at UCLA 🐻, specializing in real-world systems for ML and LLM agents (with [compound AI systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)).
-
 Previously, I worked at Nanyang Technological University in Singapore and Microsoft Research Asia.
 
 ### Projects
