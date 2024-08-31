@@ -1,13 +1,19 @@
 ### Hi there 👋 
 
-<details open>
+I'm an MSCS student at UCLA 🐻, specializing in real-world systems for ML and LLM agents (with [compound AI systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)).
+
+Previously, I worked at Nanyang Technological University in Singapore and Microsoft Research Asia.
+
+### Projects
+
+<details>
   <summary><b> :hammer: Software Engineering</b></summary>
   
   - [AndroidWM](https://github.com/huangyz0918/AndroidWM): An android watermark library that supports invisible digital watermarks. ![](https://img.shields.io/github/stars/huangyz0918/AndroidWM?style=social)
   - [Moving](https://github.com/huangyz0918/moving): A clean and minimalist blog theme for Jekyll. ![](https://img.shields.io/github/stars/huangyz0918/moving?style=social)
 </details>
 
-<details open>
+<details>
   <summary><b> :dart: Machine Learning Systems</b></summary>
 
   - [Machine Learning ModelCI](https://github.com/cap-ntu/ML-Model-CI): An MLOps platform for managing, converting, profiling, and deploying MLaaS (ACM MM'20).
@@ -15,7 +21,14 @@
   - [DataCI](https://arxiv.org/abs/2306.15538): A Platform for Data-Centric AI on Streaming Data (ICML'23).
 </details>
 
-<details open>
+<details>
+  <summary><b> 🤖 LLM Agents</b></summary>
+
+  - [MLE-Agent](https://github.com/MLSysOps/MLE-agent): An intelligent companion for seamless AI engineering and research.
+  - [Termax](https://github.com/huangyz0918/termax): An open-sourced implementation of Github Copilot CLI.
+</details>
+
+<details>
   <summary><b> :books: Notes & Tutorials</b></summary>
   
   - [*Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning): A curated list of research in machine learning system. ![](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social)
