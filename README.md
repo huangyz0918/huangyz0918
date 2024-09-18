@@ -23,8 +23,8 @@ Previously, I worked at Nanyang Technological University in Singapore and Micros
 <details>
   <summary><b> 🤖 LLM Agents</b></summary>
 
-  - [MLE-Agent](https://github.com/MLSysOps/MLE-agent): An intelligent companion for seamless AI engineering and research.
-  - [Termax](https://github.com/huangyz0918/termax): An open-sourced implementation of Github Copilot CLI.
+  - [MLE-Agent](https://github.com/MLSysOps/MLE-agent): An intelligent companion for seamless AI engineering and research. ![](https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=social)
+  - [Termax](https://github.com/huangyz0918/termax): An open-sourced implementation of Github Copilot CLI. ![](https://img.shields.io/github/stars/huangyz0918/termax?style=social)
 </details>
 
 <details>
