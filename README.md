@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
 I'm a graduate student at UCLA 🐻, specializing in real-world systems for ML and LLM agents (with [compound AI systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)).
-
 Previously, I worked as a senior research engineer at A*STAR, Singapore and Microsoft Research Asia.
 
 ### Recent Blogs
