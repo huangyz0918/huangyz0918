@@ -7,7 +7,6 @@ Previously, I worked as a senior research engineer at A*STAR, Singapore and Micr
 
 - Oct 18, 2024 - [A Close-look at RAG System Optimization](https://blog.huangyz.name/tech/2024/10/18/notes.html)
 - Aug 12, 2024 - [Serving LLMs in Production - The Optimization](https://blog.huangyz.name/tech/2024/08/12/notes.html)
-- May 11, 2024 - [Designing LLM Agents with Compound AI Systems](https://blog.huangyz.name/tech/2024/05/11/notes.html)
 - Dec 09, 2023 - [Lifelong Learning in Modern AI Systems](https://blog.huangyz.name/tech/2023/12/09/notes.html)
 - Apr 05, 2023 - [Using Checkpoint Recovery in Large-Scale ML Training](https://blog.huangyz.name/tech/2023/04/05/notes-ckpt.html)
 - May 26, 2021 - [Model Serving Performance Test - A Deep Dive](https://blog.huangyz.name/tech/2021/05/26/notes.html)
