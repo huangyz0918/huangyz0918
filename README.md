@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 I'm a graduate student at UCLA 🐻, specializing in high-performance ML serving and LLM agents (with [compound AI systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)).
-Previously, I worked as a research engineer at A*STAR, Singapore and Microsoft Research Asia.
+Previously, I did my research at A*STAR, Singapore and Microsoft Research Asia.
 
 ### Recent Blogs
 
