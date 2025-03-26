@@ -5,6 +5,7 @@ Previously, I did my research at Institute for Infocomm Research, Singapore and 
 
 ### Recent Blogs
 
+- Mar 25, 2025 - [So, What Does an LLM Agent Serving Framework Look Like — If One Exists?](https://blog.huangyz.name/tech/2025/03/25/notes.html)
 - Oct 18, 2024 - [A Close-look at RAG System Optimization](https://blog.huangyz.name/tech/2024/10/18/notes.html)
 - Aug 12, 2024 - [Serving LLMs in Production - The Optimization](https://blog.huangyz.name/tech/2024/08/12/notes.html)
 - Dec 09, 2023 - [Lifelong Learning in Modern AI Systems](https://blog.huangyz.name/tech/2023/12/09/notes.html)
